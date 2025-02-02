@@ -37,7 +37,7 @@
 
  <h2>Imagem</h2>
    
-  ![projeto](https://github.com/MarianaBarretto/Geracao-Animacoes-Led-5x5/blob/feature/estrutura-codigo/imagem.jpg)
+  ![projeto](https://github.com/MarianaBarretto/Controle-Matriz-Leds-5x5/blob/feature/matriz-leds/imagem.jpg)
 
   <h2>Definições de Teclas</h2>
 <p>A interação com o sistema é feita através de dois botões com as seguintes definições de teclas:</p>
